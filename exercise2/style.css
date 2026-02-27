@@ -1,0 +1,47 @@
+body{
+     background-color: rgb(209, 208, 208);
+    }
+    #whitesquare{background-color: white;   
+    width: 70%;
+    margin: auto;   
+    padding: 40px;
+    border-radius: 20px;
+    }
+    #whitesquare h1 {
+        text-align: center;
+        color: green;
+         font-weight:700;
+         font-size: 170px;
+         font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+         
+    }
+    #whitesquare h2 {
+        text-align: center;
+        color: green;
+         font-weight:700;
+         font-size: 70px;
+         font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
+    
+    #whitesquare p{
+        font-size: 25px;
+        text-align: left;
+        font-weight:500;
+    }
+    #greensquare{
+        background-color: rgb(0, 128, 0);
+        width: 90%;
+        margin: 50px auto;
+        padding: 40px;
+        border-radius: 20px;
+    }
+    #greensquare h1{
+        text-align: left;
+        color: white;
+        font-size: 35px;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+         }
+    #greensquare p{color: white;
+        font-size: 30px;
+        text-align: left;
+    }
