@@ -1,5 +1,5 @@
 body{
-     background-color: rgb(209, 208, 208);
+     background-color: rgb(209, 208, 208);/* Sets the background colour of the whole webpage */
     }
     #whitesquare{background-color: white;   
     width: 70%;
@@ -7,7 +7,7 @@ body{
     padding: 40px;
     border-radius: 20px;
     }
-    #whitesquare h1 {
+    #whitesquare h1 {/* Styling for the main heading inside the white square */
         text-align: center;
         color: green;
          font-weight:700;
@@ -15,7 +15,7 @@ body{
          font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
          
     }
-    #whitesquare h2 {
+    #whitesquare h2 {/* Styling for secondary headings inside the white square */
         text-align: center;
         color: green;
          font-weight:700;
@@ -41,7 +41,7 @@ body{
         font-size: 35px;
         font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
          }
-    #greensquare p{color: white;
+    #greensquare p{color: white;/* Paragraph style inside the green section */
         font-size: 30px;
         text-align: left;
     }
