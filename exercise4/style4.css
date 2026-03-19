@@ -65,3 +65,15 @@ line-height: 1.2;
  font-weight: bold;
  padding-left:50px;
 }
+.button {
+  background-color: #89e1f4;
+  border: none;
+  color: rgb(46, 45, 45);
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
